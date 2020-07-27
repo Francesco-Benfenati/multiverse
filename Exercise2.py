@@ -1,3 +1,4 @@
+# Adapted from https://programmersought.com/article/1636573462/
 from keras.models import Sequential
 from keras.layers import Input, Dense, Dropout, Activation, Flatten
 from keras.models import Model

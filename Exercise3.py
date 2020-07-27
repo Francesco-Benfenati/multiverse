@@ -1,3 +1,4 @@
+# From https://pennylane.ai/qml/demos/tutorial_data_reuploading_classifier.html
 import pennylane as qml
 from pennylane import numpy as np
 from pennylane.optimize import AdamOptimizer, GradientDescentOptimizer
